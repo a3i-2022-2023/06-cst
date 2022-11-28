@@ -3,7 +3,7 @@ title: AI in the Industry Tutorials (Constraints in ML)
 author: michele.lombardi2@unibo.it
 ---
 
-# Probabilistic Models #
+# Constraints in Machine Learning Models #
 
 This is a lecture block for the 2022/2023 edition of the "AI in the Industry" course, from [University of Bologna](https://www.unibo.it). Each lecture consists of a tutorial that tackles a simplified industrial problem and tackles it using AI techniques, from Machine Learning to Combinatorial Optimization (and later on their combination).
 
